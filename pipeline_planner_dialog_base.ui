@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>634</width>
+    <width>547</width>
     <height>373</height>
    </rect>
   </property>
@@ -18,16 +18,36 @@
     <rect>
      <x>1</x>
      <y>1</y>
-     <width>631</width>
+     <width>541</width>
      <height>341</height>
     </rect>
    </property>
+   <column>
+    <property name="text">
+     <string>Constraint</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ID</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Status</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Distance</string>
+    </property>
+   </column>
   </widget>
   <widget class="QPushButton" name="btnPush">
    <property name="geometry">
     <rect>
-     <x>557</x>
-     <y>346</y>
+     <x>469</x>
+     <y>347</y>
      <width>75</width>
      <height>23</height>
     </rect>
